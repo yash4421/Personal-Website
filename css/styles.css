@@ -1,0 +1,97 @@
+body{
+
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin: 3.125rem auto 0 auto;
+  font-family: 'Sacramento', sans-serif;
+  font-size: 5.625rem;
+  color: #66BFBF;
+
+}
+h2{
+  font-family: 'Montserrat', cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+
+}
+h3{
+  font-family: 'Montserrat', cursive;
+  color: #11999E;
+  font-size: 1.7rem;
+ }
+ a{
+   font-family: 'Merriweather', serif;
+   color: #00303F;
+   margin : 0 0.6rem;
+   text-decoration: none;
+ }
+ a:hover{
+   color: #0A043C;
+ }
+.top-container{
+  background-image:url("https://i.gifer.com/ENjk.gif");
+    position: relative;
+  padding-top: 100px;
+  height :100%;
+}
+.prog{
+  font-weight: normal;
+  line-height: 2;
+  color:#f4f3f3;
+
+}
+.skill_row{
+  width:60%;
+  height:60%;
+  margin:6.25rem auto 6.25rem auto;
+  line-height: 2;
+
+}
+hr{
+  border: dotted;
+  color: #03506F;
+  border-bottom: none;
+  width:20%;
+}
+p{
+  line-height: 2;
+  font-size: 2rem;
+}
+.middle-container{
+  margin : 5% 0;
+}
+.bottom-container{
+  background-color: #1687A7;
+  margin-top: 3.5%;
+
+}
+
+.btn{
+  font-family: 'Merriweather', serif;
+  background-color: #0A043C;
+  color: #F6F6F6;
+  padding : 0.93rem 2rem;
+  text-align: center;
+  border-radius: 7% 7%;
+  text-decoration:none;
+  display: inline-block;
+  font-size: 0.8rem;
+  margin-top: 2.5%;
+}
+.btn:hover{
+  background-color:#55b3b1;
+}
+.footer-link{
+  color: #F2F4F7;
+
+}
+.copyright{
+    color: #F2F4F7;
+    font-size: 0.7rem;
+  }
+.intro{
+    color:#f4f3f3;
+  }
